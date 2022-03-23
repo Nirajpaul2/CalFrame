@@ -1,0 +1,30 @@
+BCSymbolMap Version: 2.0
+Apple clang version 13.0.0 (clang-1300.0.29.3)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk
+iPhoneOS15.0.sdk
+/Users/purplle.com/Library/Developer/Xcode/DerivedData/CalculatorFram-fnrajdoyagmifxaqtzwzvvaphirc/Build/Intermediates.noindex/ArchiveIntermediates/CalculatorFram/IntermediateBuildFilesPath/CalculatorFram.build/Release-iphoneos/CalculatorFram.build/DerivedSources/CalculatorFram_vers.c
+/Users/purplle.com/Documents/CalculatorFram
+__METACLASS_DATA__TtC14CalculatorFram10Calculator
+__DATA__TtC14CalculatorFram10Calculator
+_$s14CalculatorFramMXM
+_$s14CalculatorFram0A0CMf
+_symbolic _____ 14CalculatorFram0A0C
+_$s14CalculatorFram0A0CMF
+__swift_FORCE_LOAD_$_swiftFoundation_$_CalculatorFram
+__swift_FORCE_LOAD_$_swiftObjectiveC_$_CalculatorFram
+__swift_FORCE_LOAD_$_swiftDarwin_$_CalculatorFram
+__swift_FORCE_LOAD_$_swiftCoreFoundation_$_CalculatorFram
+__swift_FORCE_LOAD_$_swiftDispatch_$_CalculatorFram
+__swift_FORCE_LOAD_$_swiftCoreGraphics_$_CalculatorFram
+___swift_reflection_version
+_objc_classes
+_$s14CalculatorFram0A0CACycfCTq
+Apple clang version 13.0.0 (clang-1300.0.29.6)
+<swift-imported-modules>
+Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)
+/Users/purplle.com/Documents/CalculatorFram/CalculatorFram/CalculatorFram.swift
+$s14CalculatorFram0A0CMa
+<compiler-generated>
+deinit
+addTwoNo
+Swift runtime failure: arithmetic overflow

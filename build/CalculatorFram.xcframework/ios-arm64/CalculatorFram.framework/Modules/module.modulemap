@@ -1,0 +1,11 @@
+framework module CalculatorFram {
+  umbrella header "CalculatorFram.h"
+
+  export *
+  module * { export * }
+}
+
+module CalculatorFram.Swift {
+    header "CalculatorFram-Swift.h"
+    requires objc
+}
